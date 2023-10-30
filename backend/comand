@@ -14,6 +14,7 @@ python manage.py createsuperuser admin stqhJQmh admin@books.bo
 https://github.com/nodesource/distributions
 npx create-react-app frontend
 npm start
+npm install # git clone
 
 docker compose up -d --build
 docker compose down
